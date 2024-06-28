@@ -15,3 +15,8 @@ console.log(myVar);
 
 const listOfDogs = ["Tini", "Zemo"]
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
